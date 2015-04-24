@@ -1814,7 +1814,8 @@ $(&quot;.button-collapse, .nav-title-mobile&quot;).sideNav({menuWidth: 300, acti
 $(&quot;.collapsible&quot;).collapsible({accordion: false});
 $(&quot;.modal-trigger&quot;).leanModal();
 $(&quot;.post-body a&quot;).fluidbox();
-$(&quot;.post-body .btn&quot;).addClass(&quot;btn-flat waves-effect waves-light grey-text text-lighten-5&quot;);
+$(&quot;.post-body .btn&quot;).addClass(&quot;btn-flat waves-effect waves-light white-text&quot;);
+$(&quot;.post-body .btn-flat&quot;).addClass(&quot;waves-effect&quot;);
 $(&quot;.title-desktop&quot;).click(function(){$(&quot;html, body&quot;).animate({scrollTop : 0},500);return false;});
 $(&#39;#search&#39;)
     .focus(function() {
