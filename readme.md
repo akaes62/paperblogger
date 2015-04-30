@@ -13,4 +13,4 @@
 - Share & Save button
 - theme-color support
 
-##[Demo](http://terrymun.github.io/Fluidbox/)
+##[Demo](http://pkpakin.blogspot.com/)
