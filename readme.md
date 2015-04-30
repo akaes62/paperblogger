@@ -17,7 +17,7 @@
 
 ##CDN
 **paperblogger.css**
-`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.3/paperblogger.css`
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.4/paperblogger.css`
 
 **paperblogger.css**
-`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.3/paperblogger-postpage.css`
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.4/paperblogger-postpage.css`
