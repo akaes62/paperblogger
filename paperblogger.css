@@ -99,7 +99,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f1f1f', end
 .post-body img {max-width: 100%; height: auto}
 .post-body a, .post-body a:visited {text-transform: none; transition: 0.3s; color: #e91e63} .post-body a:focus, .post-body a:hover {color: #c2185b}
 .post-body a.btn {background-color: #2196F3; margin: 0.15em 0;}
+.post-body a.fluidbox {margin: 0;}
 .post-body i {line-height: 1;}
+.post-body table.tr-caption-container tbody tr td.tr-caption {padding: 0px 5px 15px 5px;} .post-body table.tr-caption-container tbody tr td {padding: 0;}
 .post-body ul {list-style: disc; padding-left: 40px;} .post-body ul li {list-style: disc;}
 .post-body h1 {font-size: 2.5em; line-height: 3.5rem; margin: 1em 0 0.5em 0; font-weight: 500;} .post-body h2 {font-size: 2em; line-height: 3rem; margin: 1em 0 0.5em 0; font-weight: 500; display: block; visibility: visible;} .post-body h3 {font-size: 1.75em; line-height: 2.75rem; margin: 1em 0 0.5em 0; font-weight: 500;} .post-body h4 {font-size: 1.5em; line-height: 2.5rem; margin: 1em 0 0.5em 0; font-weight: 500;} .post-body h5 {font-size: 1.25em; line-height: 2.25rem; font-weight: 500; margin: 1em 0 0.5em 0;}
 blockquote {border-left-color: #2196F3}

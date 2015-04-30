@@ -42,10 +42,10 @@
           <a class='brand-logo waves-effect waves-light blog-title hide-on-med-and-down title-desktop tooltipped' data-delay='25' data-position='bottom' data-tooltip='Go to top' href='#'>
               <data:blog.pageName/>
           </a>
-          <a class='brand-logo waves-effect waves-light blog-title nav-title-mobile hide-on-large-only' data-activates='nav-mobile' expr:href='data:blog.homepageUrl'>
+          <a class='brand-logo blog-title nav-title-mobile hide-on-large-only' data-activates='nav-mobile' expr:href='data:blog.homepageUrl'>
             <data:blog.title/>
           </a>
-          <a class='button-collapse waves-effect waves-light hide-on-large-only' data-activates='nav-mobile' href='#'>
+          <a class='button-collapse hide-on-large-only' data-activates='nav-mobile' href='#'>
             <i class='mdi-navigation-menu'/>
           </a>
           <form action='/search'>
