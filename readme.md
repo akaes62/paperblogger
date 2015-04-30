@@ -14,3 +14,10 @@
 - theme-color support
 
 ##[Demo](http://pkpakin.blogspot.com/)
+
+##CDN
+**paperblogger.css**
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.3/paperblogger.css`
+
+**paperblogger.css**
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.3/paperblogger-postpage.css`
