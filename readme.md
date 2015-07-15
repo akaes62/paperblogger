@@ -13,7 +13,7 @@
 - Share & Save button
 - theme-color support
 
-##[Demo](http://pkpakin.blogspot.com/)
+##[Demo](https://blogger.pknnz.com/)
 
 ##CDN
 **paperblogger.css**
@@ -21,3 +21,9 @@
 
 **paperblogger.css**
 `https://cdn.rawgit.com/pakinz/paperblogger/v1.3.4/paperblogger-postpage.css`
+
+##To-do
+- Update Materialize v0.97.0 
+- Use [Official Google Icon web font](https://google.github.io/material-design-icons/#icon-font-for-the-web)
+- Custom style Google Custom Search result ([Demo](https://blogger.pknnz.com/p/search.html?q=twitter))
+- Better search box
