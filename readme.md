@@ -19,7 +19,7 @@
 **paperblogger.css**
 `https://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger.css`
 
-**paperblogger.css**
+**paperblogger-postpage.css**
 `https://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css`
 
 ##To-do
@@ -27,3 +27,4 @@
 - Use [Official Google Icon web font](https://google.github.io/material-design-icons/#icon-font-for-the-web)
 - Custom style Google Custom Search result ([Demo](https://blogger.pknnz.com/p/search.html?q=twitter))
 - Better search box
+- Beautify & Minify CSS
