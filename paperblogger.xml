@@ -20,13 +20,13 @@
         </b:if>
       </b:if>
     </title>
-    <link href='://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css' media='screen,projection' rel='stylesheet' type='text/css'/>
-    <link href='://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger.css' rel='stylesheet' type='text/css'/>
+    <link href='//cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css' media='screen,projection' rel='stylesheet' type='text/css'/>
+    <link href='//cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger.css' rel='stylesheet' type='text/css'/>
     <b:if cond='data:blog.pageType == &quot;item&quot;'>
-      <link href='://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css' rel='stylesheet' type='text/css'/>
+      <link href='//cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css' rel='stylesheet' type='text/css'/>
     </b:if>
     <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
-      <link href='://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css' rel='stylesheet' type='text/css'/>
+      <link href='//cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css' rel='stylesheet' type='text/css'/>
     </b:if>
     &lt;style&gt;&lt;!--
     <b:skin><![CDATA[
