@@ -17,10 +17,10 @@
 
 ##CDN
 **paperblogger.css**
-`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.4/paperblogger.css`
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger.css`
 
 **paperblogger.css**
-`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.4/paperblogger-postpage.css`
+`https://cdn.rawgit.com/pakinz/paperblogger/v1.3.5/paperblogger-postpage.css`
 
 ##To-do
 - Update Materialize v0.97.0 
