@@ -1,7 +1,6 @@
-# PaperBlogger #
-## A Material Design Template for Blogger ##
-
-![PaperBlogger](http://i.imgur.com/v4A1fyq.png)
+# *THIS PROJECT IS NO LONGER MAINTAINED*
+# PaperBlogger
+## A Material Design Template for Blogger
 
 - Material Design (base on [Materialize](http://materializecss.com))
 - Responsive with mobile-friendly
@@ -13,18 +12,11 @@
 - Share & Save button
 - theme-color support
 
-##[Demo](http://blogger.pakin.me/)
+## [Demo](http://blogger.pakin.me/)
 
-##CDN
+## CDN
 **paperblogger.css**
 `https://cdn.rawgit.com/pknnz/paperblogger/v1.3.5/paperblogger.css`
 
 **paperblogger-postpage.css**
 `https://cdn.rawgit.com/pknnz/paperblogger/v1.3.5/paperblogger-postpage.css`
-
-##To-do
-- Update Materialize v0.97.0 
-- Use [Official Google Icon web font](https://google.github.io/material-design-icons/#icon-font-for-the-web)
-- Custom style Google Custom Search result ([Demo](http://blogger.pakin.me/p/search.html?q=twitter))
-- Better search box
-- Beautify & Minify CSS
